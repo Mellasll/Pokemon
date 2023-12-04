@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.body{
+    background-color: #BBAB8C;
+}
+.containermls{
+    width: 90%;
+    margin: auto;
+    padding-top: 100px;
+    display: flex;
+}
+.left-content-mls,.right-content-mls{
+    flex-basis: 50%;
+}
+.left-content-mls{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,0.5fr));
+    grid-gap:2rem;
+}
+.card-custom{
+    width: 300px;
+    background-color:#DED0B6;
+    border-radius: 1rem;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    font-size: 3px;
+}
+.card-custom h2{
+    width: min-content;
+    cursor: pointer;
+}
+.right-content-mls{
+    width: 45%;
+    text-align: center;
+    color: #DED0B6;
+    position: fixed ;
+    top:100px;
+    right: 10px;
+}
+.right-content-mls img{
+    margin: 1.5rem;
+    height: 200px;
+}
+.right-content-mls h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.right-content-mls h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-weight: 50;
+}
+.abilitiespoke{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+.abilitiespoke .grouppoke{
+    background-color: #FAEED1;
+    color: #BBAB8C;
+    padding: 0.5rem;
+    font-size: 3px;
+    border-radius: 8px;
+    margin-left: 1rem;
+    box-sizing: 5px;
+    margin-bottom: 10px;
+}
+.base-statpoke{
+    text-align: center;
+    margin-top: 3px;
+}
+.btn-group{
+    display: flex;
+}
+.btn-group button{
+    outline: none;
+    border: none;
+    width: 150px;
+    padding: 0.3rem 0;
+    margin: 1rem;
+    font-size: 17px;
+    font-weight: bold;
+    color: #2b2925;
+    background-color: #DED0B6;
+    border-radius: 8px;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+}
+h5{
+    margin-top: 10px !important;
+    text-transform: capitalize;
+}
+h2{
+    font-size: 22px !important;
+}
+.custom-modal{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.custom-modalbody{
+    text-align: center;
+}
+.custom-modalbody img{
+    height: 250px;
+}
+.custom-modalheader h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: larger ;
+}
+.prog{
+    margin-left: auto; 
+    margin-right:auto;
+}
+.rightshow{
+    margin-left: 32rem;
+}
