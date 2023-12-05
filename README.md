@@ -1,4 +1,4 @@
-İlk React.js projem
+
 ![Ekran görüntüsü 2023-12-02 155103](https://github.com/Mellasll/pokemon/assets/118398200/6e8bdf8d-51de-47dd-b108-721cb204aaef)
 
 ![Ekran görüntüsü 2023-12-02 155224](https://github.com/Mellasll/pokemon/assets/118398200/2fd6e2c3-07a6-48cd-ab3f-d60844016d21)
