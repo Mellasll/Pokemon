@@ -1,3 +1,11 @@
+İlk React.js projem
+![Ekran görüntüsü 2023-12-02 155103](https://github.com/Mellasll/pokemon/assets/118398200/6e8bdf8d-51de-47dd-b108-721cb204aaef)
+
+![Ekran görüntüsü 2023-12-02 155224](https://github.com/Mellasll/pokemon/assets/118398200/2fd6e2c3-07a6-48cd-ab3f-d60844016d21)
+
+![Ekran görüntüsü 2023-12-02 155311](https://github.com/Mellasll/pokemon/assets/118398200/e718edb0-5bfb-4d00-81b8-b9c84e7a9d65)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
